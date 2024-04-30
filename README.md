@@ -16,7 +16,7 @@ The project consists of three main components:
 
 ### Requirements
 
-- Python 3.x
+- Python 3.7.9
 - TensorFlow
 - OpenCV
 - Kivy
